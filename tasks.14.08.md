@@ -36,3 +36,4 @@ Patient
 Super communication skills incoming and outgoing
 Good leader/guide for people to implement own ideas
 
+
