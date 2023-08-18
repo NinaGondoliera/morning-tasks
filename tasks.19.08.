@@ -1,0 +1,23 @@
+# Designing for failure
+​
+Identify the kinds of failure readiness described below, giving your reasoning;
+​
+- A system that switches to a new server when one fails
+
+That is a failover tactic
+​
+- Adding replica databases with a master database
+
+That is Redundancy tactic
+​
+- Having a 2-3 colleagues who have access to the master password
+
+That is a redundancy tactic
+​
+- Performing health checks on a server
+
+That is a Monitoring tactic
+​
+- Spreading out user requests over multiple machines rather than just one powerful one
+
+That is a Load balancing tactic
